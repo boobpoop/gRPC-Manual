@@ -22,9 +22,4 @@ gRPC相关代码
 3. 修改build.gradle和settings.gradle文件中maven仓库中的url，原始url无法下载protocol插件。新的url:<br>
 > https://plugins.gradle.org/m2/<br>
 
-一二三四f
-____
-# fdf
-haha
-## fdsfsdf
-haha
+
