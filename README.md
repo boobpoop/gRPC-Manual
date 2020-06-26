@@ -12,11 +12,10 @@ gRPC相关代码
     <td><b>邮箱</b></td>
     <td><b>yulianggo@yeah.net</b></td>
   </tr>
-</table><br>
+</table>
 
-# gRPC安装陷阱
-
-1. 范德萨发.<br>
+# gRPC_Java安装--闭坑指南
+1. [gRPC_Java官网安装流程](https://www.grpc.io/docs/languages/java/quickstart/)<br>
 2. fdsafa.  <br>
 一二三四f
 ____
