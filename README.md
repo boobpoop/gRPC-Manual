@@ -22,6 +22,10 @@ gRPC相关代码
 3. 修改build.gradle和settings.gradle文件中maven仓库中的url，原始url无法下载protocol插件。新的url:<br>
 > https://plugins.gradle.org/m2/<br>
 
+# protocol buffers避坑指南
+这种gRPC的方法中必须以message进行传输，而不是基本的proto类型。
+
+#
 
 # 钩子回调
 异步
